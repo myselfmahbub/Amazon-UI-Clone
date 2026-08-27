@@ -72,7 +72,6 @@ As I continue learning frontend development, I plan to improve this project by a
 ## 👨‍💻 Author
 
 **Mahbub Mubtasim**
-
 B.Tech in Electrical Engineering
 AGEMC
 
