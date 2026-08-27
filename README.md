@@ -74,5 +74,3 @@ As I continue learning frontend development, I plan to improve this project by a
 **Mahbub Mubtasim**
 <br>B.Tech in Electrical Engineering<br>
 AGEMC
-
-Currently learning and exploring **Web Development, Embedded Systems, AI, and Technology**.
