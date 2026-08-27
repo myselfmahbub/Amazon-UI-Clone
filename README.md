@@ -51,53 +51,6 @@ Amazon-UI-Clone/
 └── box8_image.jpg      # Category image
 ```
 
-## 🧩 Page Sections
-
-The webpage is mainly divided into:
-
-1. **Navigation Bar**
-
-   * Amazon logo
-   * Delivery location
-   * Search bar
-   * Language option
-   * Account & Lists
-   * Returns & Orders
-   * Shopping Cart
-
-2. **Navigation Panel**
-
-   * Menu
-   * Today's Deals
-   * Customer Service
-   * Registry
-   * Gift Cards
-   * Sell
-
-3. **Hero Section**
-
-   * Large promotional banner
-   * Informational message
-
-4. **Category Section**
-
-   * Clothes
-   * Health & Personal Care
-   * Furniture
-   * Electronics
-   * Beauty Picks
-   * Pet Care
-   * Toys
-   * Fashion Trends
-
-5. **Footer**
-
-   * Back to Top
-   * Get to Know Us
-   * Make Money with Us
-   * Amazon Payment Products
-   * Let Us Help You
-
 ## 📚 Learning Outcome
 
 This project helped me gain a better understanding of **HTML structure and frontend webpage organization**.
