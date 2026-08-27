@@ -1,4 +1,4 @@
-# Amazon-UI-Clone
+
 # 🛒 Amazon UI Clone
 
 A frontend recreation of the Amazon homepage built using **HTML and CSS**.
